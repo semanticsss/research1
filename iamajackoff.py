@@ -3,7 +3,7 @@ import csv
 
 f=open('lists.txt',"r")
 lines=f.readlines()
-values1=[]
+values1=[] 
 values2=[]
 imajackoff = 0
 for x in lines:
